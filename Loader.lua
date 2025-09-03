@@ -2,7 +2,7 @@ local gameScripts = {
     { 
         Name = "Fish It",
         PlaceIds = { 121864768012064 },
-        Url = "https://raw.githubusercontent.com/FauruxD/YOIHH/refs/heads/main/fit.lua", 
+        Url = "https://raw.githubusercontent.com/FauruxD/YOIHH/refs/heads/main/fiacr.lua", 
         Version = "4.1.2",
         Status = "<font color='#4ade80'>Aktif</font>",
         Icon = "https://tr.rbxcdn.com/180DAY-23fac77aaa79ee5008290d43bdd34a3f/256/256/Image/Webp/noFilter"
